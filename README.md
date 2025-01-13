@@ -3,7 +3,7 @@
 <br> A simple and retro styled Hexo theme, concentrating more on your ideas.
 <br>
 <a href="https://ppoffice.github.io/hexo-theme-minos/"><b>Preview</b></a> | 
-<a href="https://github.com/ppoffice/hexo-theme-minos/archive/master.zip"><b>Download</b></a> |
+<a href="https://github.com/Chorder/hexo-theme-minos-chorder/archive/master.zip"><b>Download</b></a> |
 <a href="http://ppoffice.github.io/hexo-theme-minos/categories/Documentation/"><b>Documentation</b></a>
 </p>
 
@@ -124,7 +124,7 @@ layout across multiple viewpoints.
 Download & extract or `git clone` Minos from GitHub to your blog's theme folder, and that's it!
 
 ```shell
-git clone https://github.com/ppoffice/hexo-theme-minos.git themes/minos
+git clone https://github.com/Chorder/hexo-theme-minos-chorder themes/minos
 ```
 
 Once started, Minos will remind you of any missing dependencies and configuration files.
@@ -133,7 +133,7 @@ Once started, Minos will remind you of any missing dependencies and configuratio
 
 This project is built with
 
-- Hexo 3.6.0
+- Hexo 7.3.0
 - Ejs
 - Sass
 
@@ -142,9 +142,9 @@ Please refer to the documentation for Minos implementation details.
 ### :tada: Contribute
 
 :electric_plug: Write a plugin | 
-:triangular_flag_on_post: <a href="https://github.com/ppoffice/hexo-theme-minos/issues/new">Report a bug</a> | 
-:earth_asia: <a href="https://github.com/ppoffice/hexo-theme-minos/tree/master/languages">Add a translation</a>
+:triangular_flag_on_post: <a href="https://github.com/Chorder/hexo-theme-minos-chorder/issues/new">Report a bug</a> | 
+:earth_asia: <a href="https://github.com/Chorder/hexo-theme-minos-chorder/tree/master/languages">Add a translation</a>
 
 ### :memo: License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/ppoffice/hexo-theme-minos/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Chorder/hexo-theme-minos-chorder/blob/master/LICENSE) file for details.
