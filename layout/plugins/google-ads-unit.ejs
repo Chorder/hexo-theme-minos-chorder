@@ -1,0 +1,15 @@
+<% if ( has_config('google-ads-unit') ) { %>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6948140126543009" crossorigin="anonymous"></script>
+<!-- google ads unit -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="<%= get_config('google-ads-unit.ad-client') %>"
+     data-ad-slot="<%= get_config('google-ads-unit.ad-slot') %>"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<% } %>
