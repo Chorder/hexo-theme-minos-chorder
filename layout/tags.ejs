@@ -13,8 +13,7 @@
                 <a class="tag is-light article-tag" href="<%= url_for(tag.path) %>">#<%= tag.name %>&nbsp;(<%= tag.posts.length%>)</a>
             </span>
             <% }) %>
-
-            <%- partial('plugins/google-ads-unit') %>
         </div>
+        <%- partial('plugins/google-ads-unit') %>
     </div>
 </section>
