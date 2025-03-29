@@ -1,10 +1,7 @@
 <section class="section section-heading">
     <div class="container">
         <div class="content">
-            
             <h5><i class="far fa-folder"></i><%= __('common.categories') %></h5>
-
-            <%- partial('plugins/google-ads-unit') %>
         </div>
     </div>
 </section>
@@ -16,6 +13,8 @@
                 <a class="tag is-light article-tag" href="<%= url_for(category.path) %>"><%= category.name %>&nbsp;(<%= category.posts.length%>)</a>
             </span>
             <% }) %>
+
+            <%- partial('plugins/google-ads-unit') %>
         </div>
     </div>
 </section>
